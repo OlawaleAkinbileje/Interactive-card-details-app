@@ -28,17 +28,20 @@ This project is an interactive card details form built with React and TailwindCS
 ### Installation
 
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/your-username/interactive-card-details.git
+   git clone https://github.com/OlawaleAkinbileje/Interactive-card-details-app.git
    cd interactive-card-details
    ```
 
 2. Install dependencies:
+
    ```bash
    npm install
    ```
 
 3. Start the development server:
+
    ```bash
    npm run dev
    ```
